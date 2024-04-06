@@ -17,5 +17,7 @@
 }
 
 .input-bar {
-  width: 450px;
+  width: 550px;
+  display: flex;
+  flex-direction: row !important;
 }
